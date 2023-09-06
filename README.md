@@ -1,4 +1,4 @@
-<img width="2560" alt="home1" src="https://github.com/Shayzig/bid-ride/assets/121104922/24708739-e805-4c0d-9b62-0e13fe94865c"># BidRide - Car Rental and Bidding Platform (Angular)
+# BidRide - Car Rental and Bidding Platform (Angular + Nodejs)
 
 BidRide is a convenient car rental and bidding platform designed as a result of an Angular workshop during the Coding Academy course. It enables users to explore a variety of available cars, check their availability on specific dates, and even bid their desired rental price. Whether you're a car enthusiast or just in need of a vehicle for your upcoming trip, BidRide has you covered.
 
